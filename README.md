@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Felipe Saff
 
-- 💼 I’m currently working on PHP Web Development
+- 🏠 Living in Mato Grosso, Brazil
+- 🎈 25 years old
 - 👨🏻‍💻 I’m currently learning ReactJS
 
 <hr>
