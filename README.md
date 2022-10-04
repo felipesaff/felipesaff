@@ -1,8 +1,10 @@
-### Hi there 👋 I'm Felipe Saff
+<h1 align="center">Hi 👋, I'm Felipe Saff</h1>
+<h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🏠 Living in Mato Grosso, Brazil
-- 🎈 25 years old
-- 👨🏻‍💻 I’m currently learning ReactJS
+- 🔭 I’m currently working on Vigente Serviços de Rastreabilidade
+- 🏠 Living in Mato Grosso
+- 🎈 26 years old
+- 🌱 I’m currently learning ReactJS & TypeScript
 
 <hr>
 
@@ -17,11 +19,12 @@
   
 <h1 align="center"><strong>Skills</strong></h1>
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Saff-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Saff-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Saff-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">         
-  <img align="center" alt="Saff-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">  
-  <img align="center" alt="Saff-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </div>
   
   <hr>
