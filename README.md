@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Felipe Saff</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 - 🔭 I’m currently working on Vigente Serviços de Rastreabilidade
 - 🏠 Living in Mato Grosso
-- 🎈 26 years old
-- 🌱 I’m currently learning ReactJS & TypeScript
+- 🎈 27 years old
+- 🌱 I’m currently learning NextJS & NodeJS
 
 <hr>
 
