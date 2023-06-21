@@ -2,7 +2,6 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 - 🔭 I’m currently working on Vigente Serviços de Rastreabilidade
-- 🏠 Living in Mato Grosso
 - 🎈 27 years old
 - 🌱 I’m currently learning NextJS & NodeJS
 
