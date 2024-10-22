@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Felipe Saff</h1>
 <h3 align="center">A passionate web developer</h3>
 
-- 🔭 I’m currently working on Vigente Serviços de Rastreabilidade
+- 🔭 I’m currently working on Goyan Developers
 - 🎈 27 years old
-- 🌱 I’m currently learning NextJS & NodeJS
+- 🌱 I work using React, React Native, NodeJS & Laravel
 
 <hr>
 
