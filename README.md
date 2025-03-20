@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felipe Saff</h1>
 
-<hr>
-
 <h1 align="center"><strong>Status</strong></h1>
 <div align="center">
   <a href="https://github.com/felipesaff">
